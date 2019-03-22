@@ -1,7 +1,7 @@
 # dockprom
 
-# docker-compose install
-# prometheus 
-# alertmanager
-# node-exporter 
-# grafana
+#docker-compose install
+#prometheus 
+#alertmanager
+#node-exporter 
+#grafana
